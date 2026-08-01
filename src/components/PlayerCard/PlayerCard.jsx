@@ -26,10 +26,12 @@ export default function PlayerCard({
       toast("6 Player already selected!!");
       return;
     }
-    
+
     setIsSelected(true);
     setAvailableBalance(availableBalance - playerPrice);
     setPurchasedPlayers([...purchasedPlayers, playerData]);
+
+    toast("Player purchased!")
   };
 
   return (

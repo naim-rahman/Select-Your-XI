@@ -26,7 +26,7 @@ function App() {
       availableBalance +
         parseInt(p.price.split("USD").join("").split(".").join("")),
     );
-  };
+  
 
   return (
     <>
