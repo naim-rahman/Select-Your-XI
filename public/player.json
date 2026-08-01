@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "playerImage": "https://i.ibb.co/C5cgcXJW/image.png",
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playingRole": "Batter",
+    "rating": 9.8,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-Arm Medium",
+    "price": "50000.00 USD"
+  },
+  {
+    "id": 2,
+    "playerImage": "https://i.ibb.co/3mH9LzkW/image.png",
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Wicket-Keeper Batter",
+    "rating": 9.4,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "None",
+    "price": "35000.00 USD"
+  },
+  {
+    "id": 3,
+    "playerImage": "https://i.ibb.co/sJQ63Gnw/image.png",
+    "playerName": "Taskin Ahmed",
+    "playerCountry": "Bangladesh",
+    "playingRole": "Bowler",
+    "rating": 9.3,
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "30000.00 USD"
+  },
+  {
+    "id": 4,
+    "playerImage": "https://i.ibb.co/hr8Shzx/image.png",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playingRole": "Bowler",
+    "rating": 9.8,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-Arm Leg Break",
+    "price": "55000.00 USD"
+  },
+  {
+    "id": 5,
+    "playerImage": "https://i.ibb.co/DgKhrdpj/image.png",
+    "playerName": "Rahmanullah Gurbaz",
+    "playerCountry": "Afghanistan",
+    "playingRole": "Wicket-Keeper Batter",
+    "rating": 9.2,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "None",
+    "price": "28000.00 USD"
+  },
+  {
+    "id": 6,
+    "playerImage": "https://i.ibb.co/Xkp4YcHp/image.png",
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playingRole": "Batter",
+    "rating": 9.6,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-Arm Off Break",
+    "price": "45000.00 USD"
+  },
+  {
+    "id": 7,
+    "playerImage": "https://i.ibb.co/zTsPtbxQ/image.png",
+    "playerName": "Devon Conway",
+    "playerCountry": "New Zealand",
+    "playingRole": "Wicket-Keeper Batter",
+    "rating": 9.3,
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "None",
+    "price": "35000.00 USD"
+  },
+  {
+    "id": 8,
+    "playerImage": "https://i.ibb.co/Q3B7JNPx/image.png",
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playingRole": "Wicket-Keeper Batter",
+    "rating": 9.6,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "None",
+    "price": "48000.00 USD"
+  },
+  {
+    "id": 9,
+    "playerImage": "https://i.ibb.co/BV3Dp1Xs/image.png",
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playingRole": "All-Rounder",
+    "rating": 9.5,
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Right-Arm Fast Medium",
+    "price": "50000.00 USD"
+  },
+  {
+    "id": 10,
+    "playerImage": "https://i.ibb.co/B24rzYqJ/image.png",
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playingRole": "Batter",
+    "rating": 9.5,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-Arm Leg Break",
+    "price": "42000.00 USD"
+  },
+  {
+    "id": 11,
+    "playerImage": "https://i.ibb.co/wNKM4RnY/image.png",
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playingRole": "Bowler",
+    "rating": 9.7,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "52000.00 USD"
+  },
+  {
+    "id": 12,
+    "playerImage": "https://i.ibb.co/zHm1jt9J/image.png",
+    "playerName": "De Kock",
+    "playerCountry": "South Africa",
+    "playingRole": "Wicket-Keeper Batter",
+    "rating": 9.4,
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "None",
+    "price": "40000.00 USD"
+  }
+]
