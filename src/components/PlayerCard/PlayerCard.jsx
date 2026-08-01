@@ -31,7 +31,7 @@ export default function PlayerCard({
     setAvailableBalance(availableBalance - playerPrice);
     setPurchasedPlayers([...purchasedPlayers, playerData]);
 
-    toast("Player purchased!")
+    toast("Player purchased!");
   };
 
   return (

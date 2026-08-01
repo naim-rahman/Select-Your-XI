@@ -7,7 +7,7 @@ import SelectedPlayers from "./components/SelectedPlayers/SelectedPlayers";
 
 const fetchPlayers = async () => {
   const res = await fetch("/player.json");
-  return res.json(); 
+  return res.json();
 };
 const playerPromise = fetchPlayers();
 
@@ -26,8 +26,8 @@ function App() {
       availableBalance +
         parseInt(p.price.split("USD").join("").split(".").join("")),
     );
+  };
   
-
   return (
     <>
       <Navbar availableBalance={availableBalance}></Navbar>
@@ -74,7 +74,7 @@ function App() {
         ></SelectedPlayers>
       )}
 
-      <ToastContainer/>
+      <ToastContainer />
     </>
   );
 }
